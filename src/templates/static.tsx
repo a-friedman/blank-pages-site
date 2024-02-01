@@ -94,7 +94,7 @@ const Static: Template<TemplateRenderProps> = ({
 
   return (
     <>
-      <h1>Static Page</h1>
+      <h1>Static Page v2</h1>
     </>
   );
 };
